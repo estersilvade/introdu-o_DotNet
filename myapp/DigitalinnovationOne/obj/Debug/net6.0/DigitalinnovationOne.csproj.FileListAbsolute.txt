@@ -1,0 +1,15 @@
+C:\treino de C#\myapp\DigitalinnovationOne\bin\Debug\net6.0\DigitalinnovationOne.exe
+C:\treino de C#\myapp\DigitalinnovationOne\bin\Debug\net6.0\DigitalinnovationOne.deps.json
+C:\treino de C#\myapp\DigitalinnovationOne\bin\Debug\net6.0\DigitalinnovationOne.runtimeconfig.json
+C:\treino de C#\myapp\DigitalinnovationOne\bin\Debug\net6.0\DigitalinnovationOne.dll
+C:\treino de C#\myapp\DigitalinnovationOne\bin\Debug\net6.0\DigitalinnovationOne.pdb
+C:\treino de C#\myapp\DigitalinnovationOne\obj\Debug\net6.0\DigitalinnovationOne.csproj.AssemblyReference.cache
+C:\treino de C#\myapp\DigitalinnovationOne\obj\Debug\net6.0\DigitalinnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\treino de C#\myapp\DigitalinnovationOne\obj\Debug\net6.0\DigitalinnovationOne.AssemblyInfoInputs.cache
+C:\treino de C#\myapp\DigitalinnovationOne\obj\Debug\net6.0\DigitalinnovationOne.AssemblyInfo.cs
+C:\treino de C#\myapp\DigitalinnovationOne\obj\Debug\net6.0\DigitalinnovationOne.csproj.CoreCompileInputs.cache
+C:\treino de C#\myapp\DigitalinnovationOne\obj\Debug\net6.0\DigitalinnovationOne.dll
+C:\treino de C#\myapp\DigitalinnovationOne\obj\Debug\net6.0\refint\DigitalinnovationOne.dll
+C:\treino de C#\myapp\DigitalinnovationOne\obj\Debug\net6.0\DigitalinnovationOne.pdb
+C:\treino de C#\myapp\DigitalinnovationOne\obj\Debug\net6.0\DigitalinnovationOne.genruntimeconfig.cache
+C:\treino de C#\myapp\DigitalinnovationOne\obj\Debug\net6.0\ref\DigitalinnovationOne.dll
